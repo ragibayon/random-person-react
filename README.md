@@ -1,7 +1,5 @@
 ## random person generator
 
-> API Link: https://randomuser.me/api/
+Generates random user profiles from [API](https://randomuser.me/api/)
 
-## Live Demo:
-
-ragib-random-person.netlify.app
+> [Live Demo at netlify](https://ragib-random-person.netlify.app)
